@@ -55,3 +55,4 @@ int main(){
     }
    
 }
+surjeet singh has created this all 
